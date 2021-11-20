@@ -1,0 +1,8 @@
+:root {
+    --dark-gray_700: #f1f5fb;
+    --orange-color-700: #f78f1e;
+}
+
+._paoao {
+    background-color: var(--dark-gray_700);
+}

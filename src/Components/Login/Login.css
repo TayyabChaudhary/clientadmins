@@ -1,0 +1,32 @@
+:root {
+    --dark-gray_700: #f1f5fb;
+    --orange-color-700: #f78f1e;
+}
+
+._p_a_as_d {
+    background-color: var(--dark-gray_700);
+}
+._pao_aoao ._iu_aia {
+
+    width: 400px;
+    padding: 2rem;
+}
+.Oaiao{
+    font-size: 1.5rem;
+}
+ p{
+     font-size: 11px;
+ }
+
+ .toggle-checkbox:checked {
+    @apply: right-0 border-green-400;
+    right: 0;
+    border-color: var(--orange-color-700);
+  }
+  .toggle-checkbox:checked + .toggle-label {
+    @apply: bg-green-400;
+    background-color: var(--orange-color-700);
+  }
+  button {
+      background-color: var(--orange-color-700);
+  }

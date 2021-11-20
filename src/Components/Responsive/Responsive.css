@@ -1,0 +1,295 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    /* CSS */
+}
+
+/* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    /* CSS */
+    
+}
+
+/* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* CSS */
+    /* Dashboard CSS Code Start Here */
+    .oeoeoeo {
+        display: block;
+    }
+    .sisiisi,
+    .kddlldopd {
+        display: block;
+        text-align: center;
+    }
+    .kddoo {
+        display: block;
+        margin-top: 20px;
+    }
+    .ididi9diid {
+        width: 100%;
+    }
+    .oaiai {
+        margin-left: 0px;
+    }
+    .kdodoaa {
+        display: block;
+    }
+    ._x_v_b_n_m {
+        font-size: 16px;
+    }
+    .lfpfpfp {
+        padding-left: 0px;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    ._circle_image {
+        margin: auto;
+    }
+    /* Dashboard CSS Code End Here */
+    /* User Setting Page Code Start here */
+    .j_p_l_j_h_,
+    .kdooddpaoa {
+        display: block;
+    }
+    ._0ee {
+        padding-top: 1rem;
+    }
+    .oaiai {
+        padding: 22px;
+    }
+    .idod {
+        margin-left: 0px;
+    }
+    form .odofofo {
+        width: 43rem;
+    }
+    .iidodo {
+        width: 113% !important;
+    }
+    ._APAPAP {
+        right: -24px;
+        height: 35px;
+        width: 98px;
+    }
+    /* User Setting Page Code End here */
+}
+
+/* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    /* CSS */
+    /* Dashboard CSS Code Start Here */
+    .oeoeoeo {
+        display: block;
+    }
+    .sisiisi,
+    .kddlldopd {
+        display: block;
+        text-align: center;
+    }
+    .kddoo {
+        display: block;
+        margin-top: 20px;
+    }
+    .ididi9diid {
+        width: 100%;
+    }
+    .oaiai {
+        margin-left: 0px;
+    }
+    .kdodoaa {
+        display: block;
+    }
+    ._x_v_b_n_m {
+        font-size: 16px;
+    }
+    .lfpfpfp {
+        padding-left: 0px;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    ._circle_image {
+        margin: auto;
+    }
+    /* Dashboard CSS Code End Here */
+    /* User Setting Page Code Start here */
+    .j_p_l_j_h_,
+    .kdooddpaoa {
+        display: block;
+    }
+    ._0ee {
+        padding-top: 1rem;
+    }
+    .oaiai {
+        padding: 22px;
+    }
+    .idod {
+        margin-left: 0px;
+    }
+    form .odofofo {
+        width: 59rem;
+    }
+    .iidodo {
+        width: 500px !important;
+    }
+    ._APAPAP {
+        right: 15px;
+        height: 35px;
+        width: 98px;
+    }
+    /* User Setting Page Code End here */
+}
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+@media (min-width: 481px) and (max-width: 767px) {
+    /* CSS */
+    /* Dashboard CSS Code Start Here */
+    .oeoeoeo {
+        display: block;
+    }
+    .sisiisi,
+    .kddlldopd {
+        display: block;
+        text-align: center;
+    }
+    .kddoo {
+        display: block;
+        margin-top: 20px;
+    }
+    .ididi9diid {
+        width: 100%;
+    }
+    .oaiai {
+        margin-left: 0px;
+    }
+    .kdodoaa {
+        display: block;
+    }
+    ._x_v_b_n_m {
+        font-size: 16px;
+    }
+    .lfpfpfp {
+        padding-left: 0px;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    ._circle_image {
+        margin: auto;
+    }
+    /* Dashboard CSS Code End Here */
+    /* User Setting Page Code Start here */
+    .j_p_l_j_h_,
+    .kdooddpaoa {
+        display: block;
+    }
+    ._0ee {
+        padding-top: 1rem;
+    }
+    .oaiai {
+        padding: 22px;
+    }
+    .idod {
+        margin-left: 0px;
+    }
+    /* User Setting Page Code End here */
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+    /* CSS */
+
+    /* Header Page Code Start Here */
+    .iidodo {
+        display: none;
+    }
+    ._APAPAP {
+        display: none;
+    }
+    /* Header Page Code End Here */
+
+    /* Dashboard CSS Code Start Here */
+    .oeoeoeo {
+        display: block;
+    }
+    .sisiisi,
+    .kddlldopd {
+        display: block;
+        text-align: center;
+    }
+    .kddoo {
+        display: block;
+        margin-top: 20px;
+    }
+    .ididi9diid {
+        width: 100%;
+    }
+    .oaiai {
+        margin-left: 0px;
+    }
+    .kdodoaa {
+        display: block;
+    }
+    ._x_v_b_n_m {
+        font-size: 16px;
+    }
+    .lfpfpfp {
+        padding-left: 0px;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    ._circle_image {
+        margin: auto;
+    }
+    /* Dashboard CSS Code End Here */
+    /* User Setting Page Code Start here */
+    .j_p_l_j_h_,
+    .kdooddpaoa {
+        display: block;
+    }
+    ._0ee {
+        padding-top: 1rem;
+    }
+    .oaiai {
+        padding: 22px;
+    }
+    .idod {
+        margin-left: 0px;
+    }
+    /* User Setting Page Code End here */
+
+    /* Dashboard Code Start Here */
+    .dpdpdp{
+        display: block;
+    }
+    .jdiidi{
+        width: 100%;
+        margin-top: 2rem;
+    }
+    .olsooss{
+        width: 100%;
+    }
+    /* Dashboard Code End Here */
+}
